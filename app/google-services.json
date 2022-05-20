@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "950874847537",
+    "project_id": "appdoctruyen-82f95",
+    "storage_bucket": "appdoctruyen-82f95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950874847537:android:7aed5c57afecf5ce9bd810",
+        "android_client_info": {
+          "package_name": "com.vungoclong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950874847537-cghcohgqhk13bvcrbm8rdi2qcu17k9bj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vungoclong",
+            "certificate_hash": "2c997c8e3a2c6ad5ba657c561b2cd54d0f843be7"
+          }
+        },
+        {
+          "client_id": "950874847537-k6e8s1tf0cbtt4t3p1nr4jejmu0fsf13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQEuJHqDVDDmvXhf29k_aWd9X1w1LcIx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950874847537-k6e8s1tf0cbtt4t3p1nr4jejmu0fsf13.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
