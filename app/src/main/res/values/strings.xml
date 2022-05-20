@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Đọc Truyện</string>
+    <string name="home">Trang Chủ</string>
+    <string name="search_story">Tìm Truyện</string>
+    <string name="history">Lịch Sử</string>
+    <string name="profile">Cá Nhân</string>
 </resources>

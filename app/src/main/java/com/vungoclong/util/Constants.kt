@@ -12,6 +12,6 @@ object Constants {
     const val MY_SHARE_PREFERENCES="share_pref"
     const val IS_START_FROM_WELCOME="welcome_screen_state"
 
-    const val SPLASH_SCREEN_DURATION = 1500L
+    const val SPLASH_SCREEN_DURATION = 1000L
 
 }

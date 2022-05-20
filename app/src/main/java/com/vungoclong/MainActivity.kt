@@ -7,7 +7,7 @@ import androidx.activity.viewModels
 import androidx.core.splashscreen.SplashScreen.Companion.installSplashScreen
 import com.vungoclong.navigation.Navigation
 import com.vungoclong.ui.theme.AppDocTruyenTheme
-import com.vungoclong.ui.viewmodel.splash.SplashViewModel
+import com.vungoclong.viewmodel.splash.SplashViewModel
 
 class MainActivity : ComponentActivity() {
 

@@ -1,4 +1,4 @@
-package com.vungoclong.ui.viewmodel.welcome
+package com.vungoclong.viewmodel.welcome
 
 import android.content.Context
 import androidx.lifecycle.ViewModel

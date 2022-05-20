@@ -1,4 +1,4 @@
-package com.vungoclong.ui.viewmodel.splash
+package com.vungoclong.viewmodel.splash
 
 import android.content.Context
 import androidx.compose.runtime.MutableState
