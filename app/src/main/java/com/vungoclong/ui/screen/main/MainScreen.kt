@@ -23,7 +23,9 @@ import com.vungoclong.ui.theme.colorUnselected
 import com.vungoclong.util.MainScreenTab
 
 @Composable
-fun MainScreen() {
+fun MainScreen(
+
+) {
 
     val navController = rememberNavController()
     val items = listOf(
@@ -42,6 +44,7 @@ fun MainScreen() {
                 val currentDestination = navBackStackEntry?.destination
                 items.forEach { screen ->
                     BottomNavigationItem(
+
                         selectedContentColor = colorMain,
                         unselectedContentColor = colorUnselected,
                         alwaysShowLabel = false,

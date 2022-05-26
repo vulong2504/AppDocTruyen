@@ -14,4 +14,8 @@ object Constants {
 
     const val SPLASH_SCREEN_DURATION = 1000L
 
+    const val FIREBASE_DB_URL = "https://appdoctruyen-82f95-default-rtdb.asia-southeast1.firebasedatabase.app"
+
+
+
 }

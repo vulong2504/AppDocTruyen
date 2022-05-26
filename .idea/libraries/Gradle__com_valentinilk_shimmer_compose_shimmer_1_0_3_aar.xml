@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.valentinilk.shimmer:compose-shimmer:1.0.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/4f030f050d2f2c6c0f12bced52fafe73/transformed/compose-shimmer-1.0.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4f030f050d2f2c6c0f12bced52fafe73/transformed/compose-shimmer-1.0.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/4f030f050d2f2c6c0f12bced52fafe73/transformed/compose-shimmer-1.0.3/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.valentinilk.shimmer/compose-shimmer/1.0.3/9b727455f72252f4e1b8a71d31b8fcda9bd1f35e/compose-shimmer-1.0.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.valentinilk.shimmer/compose-shimmer/1.0.3/a31ce67bb99ae89fe5f119b647621f387952942d/compose-shimmer-1.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

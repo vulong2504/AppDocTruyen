@@ -23,8 +23,8 @@ import com.google.accompanist.pager.HorizontalPager
 import com.google.accompanist.pager.HorizontalPagerIndicator
 import com.google.accompanist.pager.rememberPagerState
 import com.vungoclong.ui.theme.*
-import com.vungoclong.viewmodel.welcome.WelcomeScreenViewModel
 import com.vungoclong.util.WelcomePage
+import com.vungoclong.viewmodel.welcome.WelcomeScreenViewModel
 
 @OptIn(ExperimentalPagerApi::class)
 @Composable

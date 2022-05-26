@@ -8,7 +8,9 @@ val Purple700 = Color(0xFF3700B3)
 val Teal200 = Color(0xFF03DAC5)
 
 val colorMain = Color(0xFF7804C6)
+val colorBorderStroke = Color(0xFFCCCCCC)
 val colorBackground = Color(0xFFF2F2F2)
 val colorUnselected = Color(0xFF5F6368)
-val colorText = Color(0xFF505050)
+val colorText2 = Color(0xFF505050)
+
 
